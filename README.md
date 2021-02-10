@@ -1,2 +1,0 @@
-# hello-word
-Go first
